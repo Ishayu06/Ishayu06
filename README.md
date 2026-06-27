@@ -4,7 +4,7 @@
 Undergraduate Researcher • Astrophysics • Gravitation • Scientific Computing • Cosmology
 </p>
 
-I'm **Ishayu Basu**, an undergraduate Electronics & Instrumentation Engineering student at **VIT Vellore** with a strong interest in **astrophysics, gravitation, and computational cosmology**. My work currently revolves on the domains of **modified gravity** and I am also in process of acquiring a learning experience in **computational cosmology**.
+I'm **Ishayu Basu**, an undergraduate Electronics & Instrumentation Engineering student at **VIT Vellore** with a strong interest in **astrophysics, gravitation, and computational cosmology**. My current research focuses on **modified gravity**, while I continue to build expertise in **computational cosmology**, **scientific computing**, and **data-driven approaches to fundamental physics**.
 
 🎓 Electronics & Instrumentation Engineering @ VIT Vellore
 
@@ -38,7 +38,7 @@ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Wolfram-Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
 
-Programming Libraries
+Scientific Libraries
 
 ---
 
